@@ -1,0 +1,7 @@
+MKL46Z256xxx4_Project.c:58:6:delay_ms	24	static
+MKL46Z256xxx4_Project.c:68:6:turn_wheels	16	static
+MKL46Z256xxx4_Project.c:73:6:press_gas	16	static
+MKL46Z256xxx4_Project.c:79:6:make_right_turn	16	static
+MKL46Z256xxx4_Project.c:86:6:drive_square	16	static
+MKL46Z256xxx4_Project.c:125:6:drive_circle	8	static
+MKL46Z256xxx4_Project.c:135:5:main	8	static

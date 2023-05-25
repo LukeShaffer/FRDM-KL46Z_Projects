@@ -1,0 +1,16 @@
+LCD.c:23:6:wait_us	24	static
+LCD.c:31:6:wait_ms	24	static
+LCD.c:39:6:set_RS	16	static
+LCD.c:50:6:set_E	16	static
+LCD.c:62:6:toggle_E	8	static
+LCD.c:68:6:set_DB	16	static
+LCD.c:110:6:set_DB_direction	16	static
+LCD.c:140:6:send_data	16	static
+LCD.c:155:6:init_clock_gating	8	static
+LCD.c:163:6:init_GPIO	8	static
+LCD.c:199:6:init_LCD_setup	16	static
+LCD.c:267:6:digit_to_char	16	static
+LCD.c:295:5:int_to_str	128	static
+LCD.c:317:6:print_int	128	static
+LCD.c:325:6:print_float	136	static
+LCD.c:345:6:print_string	24	static

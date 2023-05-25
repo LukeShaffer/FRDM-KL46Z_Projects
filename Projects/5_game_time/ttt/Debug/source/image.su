@@ -1,0 +1,2 @@
+image.c:9:6:load_image	16	static
+image.c:18:6:print_image	144	static

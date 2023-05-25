@@ -1,0 +1,2 @@
+touchscreen_test.c:26:5:touch_range1	64	static
+touchscreen_test.c:75:5:main	24	static

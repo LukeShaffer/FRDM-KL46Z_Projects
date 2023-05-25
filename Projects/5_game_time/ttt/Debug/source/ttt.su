@@ -1,0 +1,13 @@
+ttt.c:90:5:get_board_size	16	static
+ttt.c:100:6:wait_ms	24	static
+ttt.c:112:5:touch_range	80	static
+ttt.c:193:6:init_board	32	static
+ttt.c:212:6:free_board	24	static
+ttt.c:218:6:print_board	24	static
+ttt.c:241:5:check_win	24	static
+ttt.c:348:5:is_empty	16	static
+ttt.c:364:6:x_turn	24	static
+ttt.c:395:6:o_turn	40	static
+ttt.c:432:6:take_turn	16	static
+ttt.c:448:5:play_game	24	static
+ttt.c:486:5:main	32	static

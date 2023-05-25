@@ -1,0 +1,2 @@
+touchsensor.c:14:6:touch_sensor_init	8	static
+touchsensor.c:32:5:low_to_high	16	static

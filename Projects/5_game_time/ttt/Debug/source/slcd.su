@@ -1,0 +1,6 @@
+slcd.c:40:6:slcd_init	8	static
+slcd.c:80:6:pin_init	24	static
+slcd.c:108:6:slcd_set_digit	16	static
+slcd.c:205:6:slcd_game	24	static
+slcd.c:222:6:contrast_control	16	static
+slcd.c:228:6:decimal_point	16	static

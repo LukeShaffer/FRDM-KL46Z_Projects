@@ -1,0 +1,16 @@
+core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+core_cm0plus.h:769:22:__NVIC_DisableIRQ	16	static
+fsl_clock.h:601:20:CLOCK_EnableClock	24	static
+fsl_clock.h:612:20:CLOCK_DisableClock	24	static
+fsl_common.h:405:28:EnableIRQ	16	static
+fsl_common.h:443:28:DisableIRQ	16	static
+fsl_slcd.h:387:20:SLCD_StopDisplay	16	static
+fsl_slcd.c:77:17:SLCD_GetInstance	24	static
+fsl_slcd.c:95:6:SLCD_Init	32	static
+fsl_slcd.c:185:6:SLCD_Deinit	24	static
+fsl_slcd.c:201:6:SLCD_GetDefaultConfig	16	static
+fsl_slcd.c:221:6:SLCD_StartBlinkMode	24	static
+fsl_slcd.c:240:6:SLCD_EnableInterrupts	24	static
+fsl_slcd.c:252:6:SLCD_DisableInterrupts	24	static
+fsl_slcd.c:272:6:SLCD_ClearInterruptStatus	16	static
+fsl_slcd.c:288:10:SLCD_GetInterruptStatus	24	static

@@ -1,0 +1,16 @@
+peripherals.c:81:6:BOARD_SW1_SW3_init	8	static
+peripherals.c:111:6:BOARD_LED_RED_init	8	static
+peripherals.c:138:6:BOARD_LED_GREEN_init	8	static
+peripherals.c:177:6:BOARD_ACCEL_I2C_init	8	static
+peripherals.c:205:6:BOARD_INT1_init	8	static
+peripherals.c:232:6:BOARD_INT2_init	8	static
+peripherals.c:271:6:MAG_I2C_init	8	static
+peripherals.c:299:6:INT2_init	8	static
+peripherals.c:332:6:BOARD_LPSCI_1_init	8	static
+peripherals.c:339:6:BOARD_InitPeripherals	8	static
+peripherals.c:343:6:BOARD_InitButtonsPeripheral	8	static
+peripherals.c:349:6:BOARD_InitLEDsPeripheral	8	static
+peripherals.c:356:6:BOARD_InitACCELPeripheral	8	static
+peripherals.c:364:6:BOARD_InitMAGPeripheral	8	static
+peripherals.c:371:6:BOARD_InitDEBUG_UARTPeripheral	8	static
+peripherals.c:380:6:BOARD_InitBootPeripherals	8	static

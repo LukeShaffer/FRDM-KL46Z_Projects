@@ -1,0 +1,10 @@
+core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+MKL46Z256xxx4_Project3.c:37:6:init_pits	8	static
+MKL46Z256xxx4_Project3.c:50:6:init_go_timer	8	static
+MKL46Z256xxx4_Project3.c:63:6:setup_SW1_interrupt	8	static
+MKL46Z256xxx4_Project3.c:72:6:setup_servo_motor	8	static
+MKL46Z256xxx4_Project3.c:106:6:turn_wheels	16	static
+MKL46Z256xxx4_Project3.c:111:6:setup_encoders	8	static
+MKL46Z256xxx4_Project3.c:126:6:PORTA_IRQHandler	8	static
+MKL46Z256xxx4_Project3.c:139:6:PIT_IRQHandler	16	static
+MKL46Z256xxx4_Project3.c:185:5:main	8	static
